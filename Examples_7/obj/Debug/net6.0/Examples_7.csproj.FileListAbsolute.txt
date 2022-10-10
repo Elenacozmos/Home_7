@@ -1,0 +1,15 @@
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\bin\Debug\net6.0\Examples_7.exe
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\bin\Debug\net6.0\Examples_7.deps.json
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\bin\Debug\net6.0\Examples_7.runtimeconfig.json
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\bin\Debug\net6.0\Examples_7.dll
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\bin\Debug\net6.0\Examples_7.pdb
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.AssemblyInfoInputs.cache
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.AssemblyInfo.cs
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.dll
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\refint\Examples_7.dll
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.pdb
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\Examples_7.genruntimeconfig.cache
+C:\Users\Elena\Desktop\Lesson_7\Examples\Examples_7\obj\Debug\net6.0\ref\Examples_7.dll
